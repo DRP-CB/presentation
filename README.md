@@ -9,6 +9,6 @@ Le projet tente de représenter un workflow de data science, il comprend plusieu
 - 4 : Modélisation
 - 5 : Evaluation des performances du modèle et critique
 
-Le fichier scrap.py représente la première étape. C'est une fonction appelée depuis un autre script simple qui fait une boucle sur une liste d'urls.
+Le fichier scrap.py représente la première étape. C'est une fonction appelée depuis un autre script simple (non inclu dans ce dossier) qui fait une boucle sur une liste d'urls.
 
 Le fichier regression_multiple.ipynb contient le reste des étapes. Un modèle de regression est appliqué à des features extraits du texte afin de prédire la note que les users attribuent.
