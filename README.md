@@ -1,7 +1,7 @@
 # Presentation
 Cette page contient les deux fichiers principaux d'un projet que j'ai réalisé afin d'appuyer ma candidature à la formation de data scientist chez OpenCLassRooms.
 
-Le projet tente de représenter un workflow de data science, il comprend plusieurs étapes :
+Le projet représente un workflow de data science, il comprend plusieurs étapes :
 
 - 1 : Récolte de données en ligne par scraping
 - 2 : Aggrégation et chargement des données dans l'environnemnet de travail
